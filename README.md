@@ -18,9 +18,9 @@ Products - Analysed
 Orders - Analysed
 
 
-$$
-Data Model
-$$
+
+## <p align = center> 📚 Data Model </p>
+
 
 <P align="center">
 <img src="Images/Data Model.PNG" alt="Data Model">
