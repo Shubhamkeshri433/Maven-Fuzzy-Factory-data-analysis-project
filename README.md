@@ -9,7 +9,7 @@ This project utilizies a custom-built e-commerce database for Maven Fuzzy Factor
 
 ## **Data Sorce** - https://www.kaggle.com/code/rubenman/maven-fuzzy-factory
 
-## 📚 The database contains six related tables with eCommerce data about (Performed analysis on Four):
+## 📚 The database contains six related tables with eCommerce data about: (Performed analysis on Four):
 
 Website Activity - "Soon"
 
